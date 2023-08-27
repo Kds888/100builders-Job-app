@@ -1,2 +1,2 @@
 # 100builders-Stock-App
-Job app for 100 builders.
+Stock App for 100 builders.

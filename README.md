@@ -3,7 +3,7 @@
 
 # Stock Sentiment Analysis and Prediction Web App
 
-This is a web application that provides users with valuable insights into stock market sentiment, upcoming trends, and intraday candlestick pattern recognition. In addition, the application utilizes AI algorithms in the backend to predict stock prices.
+This is a web application that provides users with valuable insights into stock market sentiment, upcoming trends, and intraday candlestick pattern recognition. In addition, the application utilizes AI algorithms to predict stock prices.
 
 We're seeking talented data scientists and machine learning engineers to join our team and revolutionize the way investors analyze and predict stock prices. If you have a strong background in sentiment analysis, financial data modeling, and predictive algorithms, we want to collaborate with you.
 
@@ -17,23 +17,23 @@ We appreciate your interest and support as we work towards creating a game-chang
 
 ## Features
 
-- **Sentiment Analysis**: The web app analyzes historical data to determine the sentiment associated with specific stocks. By analyzing past trends and market conditions, it provides an assessment of the overall sentiment towards a particular stock.
+- **Sentiment Analysis**: Analyzes historical data to determine the sentiment associated with specific stocks. By analyzing past trends and market conditions, it provides an assessment of the overall sentiment towards a particular stock.
 
-- **Upcoming Trend Analysis**: The application utilizes current market news and data to provide insights into upcoming trends. By analyzing the sentiment of the latest market news, users can gain valuable information about potential future market movements.
+- **Upcoming Trend Analysis**: Utilizes current market news and data to provide insights into upcoming trends. By analyzing the sentiment of the latest market news, users can gain valuable information about potential future market movements.
 
-- **Intraday Candlestick Pattern Recognition**: The web app displays intraday candlestick charts for each stock. These charts help users identify various candlestick patterns, such as bullish or bearish patterns, which can provide valuable insights into market trends and potential trading opportunities.
+- **Intraday Candlestick Pattern Recognition**: Analyze intraday stock candlestick charts to identify trading patterns, and provide valuable insights into market trends and potential trading opportunities.
 
-- **AI-Based Stock Price Prediction**: Leveraging advanced AI algorithms, the web app predicts future stock prices. By analyzing historical data, market trends, and various other factors, the AI models generate predictions that can assist users in making informed investment decisions.
+- **AI-Based Stock Price Prediction**: Leveraging advanced AI algorithms, predicts future stock prices. Analyzing historical data, market trends, and various other factors, the AI models generate predictions that can assist users in making informed investment decisions.
 
 ## Technologies Used
 
-- **Frontend**: The web app's frontend is built using HTML, CSS, and JavaScript. It incorporates modern frameworks and libraries to create an interactive and user-friendly interface.
+- **Frontend**: The frontend is built using Ruby on Rails with Hotwire Turbo, Tailwind CSS, and JavaScript charting libraries. It provides a modern, responsive and user-friendly interface.
 
-- **Backend**: The backend of the web app is powered by a robust server built using the framework ruby.
+- **Backend**: The backend is powered by Rails and Python running on scalable Digital Ocean servers.
 
 - **AI Models**: The stock price prediction functionality relies on AI models trained using advanced machine learning techniques. Make use of Chatgpt and AI algorithm's for predicting stock prices
 
-- **Database**: The web app utilizes a database system, such as PostgreSQL or MySQL, to store user information, historical stock data, and other relevant datasets.
+- **Database**: PostgreSQL is use to store user information, analytics and historical data.
 
 ## Contributing
 
@@ -42,4 +42,4 @@ Contributions to the Stock Sentiment Analysis and Prediction Web App are welcome
 
 ## Contact
 
-For any inquiries, issues, or feedback, please contact Karandeep Singh at karandeep888singh@gmail.com.
+For any inquiries, issues, or feedback, please contact Karandeep Singh at karandeep888singh@gmail.com or Richard Logwood at richard.logwood@gmail.com.

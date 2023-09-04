@@ -43,3 +43,24 @@ Contributions to the Stock Sentiment Analysis and Prediction Web App are welcome
 ## Contact
 
 For any inquiries, issues, or feedback, please contact Karandeep Singh at karandeep888singh@gmail.com or Richard Logwood at richard.logwood@gmail.com.
+
+* * *
+## Week 2 update
+
+Shipped for week 2:
+> We have iterated the stock price prediction model and explored improvements for calling Python back-end from Ruby-on-Rails front end. We updated the README to include research into our potential users.
+
+Ideal target users for the product:
+> We are targeting investors who want to proactively manage their portfolios and seek unbiased guidance on how to allocate their funds
+
+What we've learned from talking to potential users:
+> We reached out to 4 people and are still waiting for some additional feedback. The perfect product will require continued effort beyond the scope of work planed for the 100 builders submission deadline:
+>
+> That said expectations for an AI stock prediction tool include:
+> - accurate predictions based on back testing
+> - consideration of global events, news, company performance and sentiment
+> - good visualizations
+> - understandable explanation of customization of model parameters
+> - trading platform integration
+> - real time analysis
+

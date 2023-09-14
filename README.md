@@ -5,7 +5,7 @@
 
 # DEMO VIDEO
 
-[Access the video by Clicking Here] (https://drive.google.com/file/d/1SX5bAvp36S8Ds9ZfdymC2Bd-2EzLbXp_/view?usp=sharing)
+[Access the video by Clicking Here](https://drive.google.com/file/d/1SX5bAvp36S8Ds9ZfdymC2Bd-2EzLbXp_/view?usp=sharing)
 
 # DEMO WEBSITE
 

@@ -3,7 +3,23 @@
 
 # Stock Sentiment Analysis and Prediction Web App
 
+# DEMO VIDEO
+
+[Access the video by Clicking Here] (https://drive.google.com/file/d/1SX5bAvp36S8Ds9ZfdymC2Bd-2EzLbXp_/view?usp=sharing)
+
+# DEMO WEBSITE
+
+[Access the website by Clicking Here](https://6wj02.hatchboxapp.com)
+
+We are still facing some deplayment Issue's, This app only support for sentiment analysis as of now, I would suggest strongly that you try to call the stock multiple time's and for the time bieng we have restricted the search to only past 10 days.
+
+# Presenatation
+
+[Access the presenatation by Clicking here](https://docs.google.com/presentation/d/1semel-imk14ZaEjvDptRzmSuQNL41LBU/edit?usp=sharing&ouid=115948092544477173732&rtpof=true&sd=true)
+
+
 This is a web application that provides users with valuable insights into stock market sentiment, upcoming trends, and intraday candlestick pattern recognition. In addition, the application utilizes AI algorithms to predict stock prices.
+
 
 We're seeking talented data scientists and machine learning engineers to join our team and revolutionize the way investors analyze and predict stock prices. If you have a strong background in sentiment analysis, financial data modeling, and predictive algorithms, we want to collaborate with you.
 
